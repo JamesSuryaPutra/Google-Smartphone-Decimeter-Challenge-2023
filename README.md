@@ -1,4 +1,5 @@
-# Google Smartphone Decimeter Challenge 2023
+# Google Smartphone Decimeter Challenge 2023-2024
+![header](https://github.com/JamesSuryaPutra/Google-Smartphone-Decimeter-Challenge-2023-2024/assets/155945814/65927988-3d67-4aeb-b4f3-63fdadbc1418)
 
 # Goal of the competition
 The goal of this competition is to determine the limit of smartphone GNSS positioning accuracy: that could be down to the decimeter or even centimeter level. You will develop a model based on raw GNSS measurements from Android phones.
